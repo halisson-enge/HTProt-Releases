@@ -1,8 +1,8 @@
 {
   "versao": "2.4.1",
   "obrigatorio": false,
-  "notas": "Versao inicial publicada no GitHub.",
-  "url": "",
-  "sha256": "",
+  "notas": "- 67 direcional de fase\n- Salvar / Salvar Como + aviso ao sair\n- Icone e associacao do .htprot\n- Auto-atualizacao pelo GitHub",
+  "url": "https://github.com/halisson-enge/HTProt-Releases/releases/download/v2.4.1/Setup_HTPROT_v2.4.1.exe",
+  "sha256": "345bd59e74c7da8e5823b4489005c4e38859b6ba904fe338b5943c9ac9544490",
   "link": "https://github.com/halisson-enge/HTProt-Releases/releases"
 }
