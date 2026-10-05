@@ -1,8 +1,9 @@
 {
-  "versao": "2.4.2",
+  "versao": "3.1.0",
   "obrigatorio": false,
-  "notas": "- Teste real de atualizacao (2.4.1 para 2.4.2)\n- 67 direcional de fase\n- Salvar / Salvar Como",
-  "url": "https://github.com/halisson-enge/HTProt-Releases/releases/download/v2.4.2/Setup_HTPROT_v2.4.2.exe",
-  "sha256": "d5ca020cc2ce135c9591e8c103a10db112f16e2ec44428bbe9faaf2e82923b8d",
-  "link": "https://github.com/halisson-enge/HTProt-Releases/releases"
+  "notas": "- Dimensionamento de cabos MT (NBR 14039) e BT (NBR 5410)\n- Arc flash revisado (IEEE 1584-2018)\n- Interface nova: Ribbon, tons Grafite/Cinza/Marinho, tela inicial com recentes\n- Novo licenciamento: requer chave HT-PROT (enviada por e-mail)\n- Atualizacao com assinatura digital",
+  "link": "https://github.com/halisson-enge/HTProt-Releases/releases",
+  "url": "https://github.com/halisson-enge/HTProt-Releases/releases/download/v3.1.0/Setup_HTPROT_v3.1.0.exe",
+  "sha256": "9b62b3903a9313b009adc47f814e5dc74026fdbfed2f508f3e3db76236b1589e",
+  "assinatura": "MsOu1KYQPOCLGbdrn0vTZGMdu8QLmnQatxdz9J8JJCsdH8xntPG10ZNw\u002BgacCKRLJVN/k6uZDvi6v5uYD/RUCA=="
 }
